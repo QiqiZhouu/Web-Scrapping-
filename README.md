@@ -1,1 +1,5 @@
 El **objetivo** de esta práctica es **extraer información** de los anuncios publicados en la página web de **Páginas Amarillas**. En esta primera sección, pedimos al usuario que interactúe con **tres campos**: por un lado, que introduzca la **categoría de búsqueda** (e.j. Restaurantes) y su **ubicación** (e.j. Alicante), y, por otro, que seleccione el **número máximo de páginas** dentro del portal de anuncios de las cuales se desea extraer la información. Una vez introducidas, se almacenan en variables para su inserción en los **campos de búsqueda** del sitio web. 
+
+---
+
+The **objective** of this project is to **extract information** from the advertisements published on the **Yellow Pages** website. In this first section, we ask the user to interact with **three fields**: on the one hand, to enter the **search category** (e.g. Restaurants) and its **location** (e.g. Alicante), and, on the other hand, to select the **maximum number of pages** within the advertisement portal from which the information is to be extracted. Once entered, they are stored in variables for insertion in the **search fields** of the website. 
